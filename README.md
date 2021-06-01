@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tom Logue
-- 👀 I’m interested in teaching Java and using git and GitHUb to teach CVS
+- 👀 I’m interested in teaching Java and using git and GitHub to teach CVS
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Web App Development
 
